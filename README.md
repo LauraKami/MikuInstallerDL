@@ -36,6 +36,12 @@ Some details to properly install MikuMikuDance.
 - The best is to have a 3-button mouse, but you can work with a laptop pad.
 - If you are planning to buy a PC to get into 3D, get a machine with an Nvidia graphics card, I know, I will make AMD angry, but it is likely that after MikuMikuDance, you will learn other software like Blender, Maya, C4D. And Blender only works on Nvidia cards, otherwise you have to get high-end AMD. So I have an AMD card for sale... ;o)
 
+# MikuInstaller icon
+![MikuInstaller icon](https://github.com/LauraKami/MikuInstallerDL/blob/main/image/IconMikuInstaller.png)
+- Pose & artistic choice: @Yhozai [https://www.instagram.com/yhozai/](https://www.instagram.com/yhozai/)
+- Image rendered by MikuMikuDance (c)Yu Higochi [MikuInstaller](https://mikumikudance.fr/miku_installer/)
+- 3D Model: created by MMD stylist 0N3B33S, TDA base [MMD - MODEL PACK DL SOBeR - SUZY on DevianArt](https://www.deviantart.com/0n3b33s/art/MMD-MODEL-PACK-DL-SOBeR-SUZY-931230081)
+- Icon converted by [Greenfish Icon Editor Pro 4.2](http://greenfishsoftware.org/) (RIP? freeware)
 
 # What will be installed on your PC
 
