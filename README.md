@@ -13,6 +13,9 @@ If your PC is new, the installation is a bit long, because there are a lot of Mi
 
 So, Miku Installer will offer you animation extracts and will make you discover magnificent MMDs.
 
+![ecran1](https://github.com/user-attachments/assets/037aace2-8648-4737-b806-f49f80420d64)
+
+
 # Main version
  - Miku Installer version bêta v004 du 5 janvier 2023
  - MikuInstaller on GitHub 1.0.1 15 Junary 2025
