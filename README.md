@@ -1,6 +1,8 @@
 # MikuInstallerDL
 To easily install MikuMikuDance and PMXEdidor with all dependencies and tools.
 
+The zip file to download : [SetupMikuInstaller.v1.0.2.zip](https://github.com/LauraKami/MikuInstallerDL/releases/download/v1.0.2/SetupMikuInstaller.v1.0.2.zip)
+
 Miku_Installer works on Windows 10 and 11, 64-bit version. It installs dependencies and tools to use MikuMikuDance and PMX Editor.
 
 You need 3 GB of free space for the software, and plan 50 GB to create animations and videos.
