@@ -3,6 +3,8 @@ To easily install MikuMikuDance and PMXEdidor with all dependencies and tools.
 
 The zip file to download : [SetupMikuInstaller.v1.0.2.zip](https://github.com/LauraKami/MikuInstallerDL/releases/download/v1.0.2/SetupMikuInstaller.v1.0.2.zip)
 
+[French version of this page](https://mikumikudance.fr/miku_installer)
+
 Miku_Installer works on Windows 10 and 11, 64-bit version. It installs dependencies and tools to use MikuMikuDance and PMX Editor.
 
 You need 3 GB of free space for the software, and plan 50 GB to create animations and videos.
@@ -83,4 +85,4 @@ Afterwards, you just have to open MikuMikuDance and do File > Open > choose the 
 
 Afterwards, you have my tutorials on MikuMikuDance.fr ... and many others on YouTube in English, Spanish and many other languages.
 
-I programmed Miku_Installer in C# with Visual Studio 2022 and .Net 6.0. The first versions that you won't see, were in: CMD Shell, PowerShell, Python text, InnoSetup (pascal), Python pySimpleGui, Python Kivy. All these versions took me 2 months.
+I programmed Miku_Installer in C# with Visual Studio 2022 and .Net 6.0. The first versions that you won't see, were in: CMD Shell, PowerShell, Python text, InnoSetup (pascal), Python pySimpleGui, Python Kivy. All these versions took me several months.
