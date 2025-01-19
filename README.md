@@ -1,6 +1,8 @@
 # MikuInstallerDL
 To easily install MikuMikuDance and PMXEdidor with all dependencies and tools.
 
+Video : https://youtu.be/Q5Fkyhu3Ey0
+
 The zip file to download : [SetupMikuInstaller.v1.0.2.zip](https://github.com/LauraKami/MikuInstallerDL/releases/download/v1.0.2/SetupMikuInstaller.v1.0.2.zip)
 
 [French version of this page, and download from france ](https://mikumikudance.fr/miku_installer)
