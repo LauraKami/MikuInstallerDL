@@ -16,6 +16,10 @@ You can download the latest version of **MmdStart** through two channels:
 
 ---
 
+![MikuMikuDance v9.32 Installed by MMDStart from MMDfr.fr](MmdStart_MikuMikuDance_by_MMDfr.fr.webp)
+
+---
+
 ## 🌟 What is MmdStart?
 
 **MmdStart** is a "One-Click" installer powered by *Inno Setup*, designed specifically for **Windows 10 and 11 (64-bit)**.
